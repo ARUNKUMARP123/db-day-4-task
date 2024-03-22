@@ -1,0 +1,101 @@
+[{
+    "userId": {
+        "$oid": "65fd669125efea6530bc971f"
+      },
+      "topicId": {
+        "$oid": "65fd717825efea6530bc974f"
+      },
+      "taskName": "Array sort",
+    "submissionDate":"2022-10-16T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9720"
+      },
+      "topicId": {
+        "$oid": "65fd717825efea6530bc9750"
+      },
+      "taskName": "Array sort ",
+    "submissionDate":"2022-10-11T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9722"
+      },
+      "topicId": {
+        "$oid": "65fd717825efea6530bc9751"
+      },
+      "taskName": "String length",
+    "submissionDate":"2022-10-10T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9723"
+      },
+      "topicId": {
+        "$oid": "65fd717825efea6530bc9752"
+      },
+      "taskName": "Loop print",
+    "submissionDate":"2022-10-19T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9724"
+      },
+      "topicId": {
+        "$oid": "65fd717825efea6530bc9753"
+      },
+      "taskName": "JavaScript",
+    "submissionDate":"2022-10-30T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9725"
+      },
+      "topicId": {
+        "$oid": "65fd717825efea6530bc9754"
+      },
+      "taskName": "Array sort",
+    "submissionDate":"2022-10-21T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9726"
+      },
+      "topicId": {
+        "$oid": "65fd717825efea6530bc9755"
+      },
+      "taskName": "Operaters",
+    "submissionDate":"2022-10-26T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9727"
+      },
+      "topicId": {
+        "$oid": "65fd717825efea6530bc9756"
+      },
+      "taskName": "React",
+    "submissionDate":"2022-10-29T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9728"
+      },
+      "topicId": {
+        "$oid": "65fd717825efea6530bc9757"
+      },
+      "taskName": "Array sort",
+    "submissionDate":"2022-10-18T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9729"
+      },
+      "topicId": {
+        "$oid": "65fd717825efea6530bc9758"
+      },
+      "taskName": "Arrays",
+    "submissionDate":"2022-10-14T00:00:00Z"
+  }
+  ]

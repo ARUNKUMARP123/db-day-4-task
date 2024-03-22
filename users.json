@@ -1,0 +1,83 @@
+[
+    {
+      "name": "ArunKumar",
+      "email": "arun@example.com",
+      "password": "A123@41",
+      "role": "student",
+      "joinDate": "2022-09-25T00:00:00Z"
+    },
+    {
+      "name": "AjithKumar",
+      "email": "ajith@example.com",
+      "password": "A123@42",
+      "role": "student",
+      "joinDate": "2022-09-21T00:00:00Z"
+    },
+    {
+      "name": "AnandKumar",
+      "email": "anand@example.com",
+      "password": "A123@43",
+      "role": "student",
+      "joinDate": "2022-08-20T00:00:00Z"
+    },
+    {
+      "name": "SelvaKumar",
+      "email": "selva@example.com",
+      "password": "A123@44",
+      "role": "student",
+      "joinDate": "2022-09-12T00:00:00Z"
+    },
+    {
+      "name": "GaneshKumar",
+      "email": "ganesh@example.com",
+      "password": "A123@45",
+      "role": "student",
+      "joinDate": "2022-08-14T00:00:00Z"
+    },
+    {
+      "name": "VarunKumar",
+      "email": "varun@example.com",
+      "password": "A123@46",
+      "role": "student",
+      "joinDate": "2022-08-10T00:00:00Z"
+    },
+    {
+      "name": "Arunraj",
+      "email": "raj@example.com",
+      "password": "A123@47",
+      "role": "student",
+      "joinDate": "2022-09-09T00:00:00Z"
+    },
+    {
+      "name": "HarishKumar",
+      "email": "harish@example.com",
+      "password": "A123@48",
+      "role": "mentor",
+      "menteesCount": 30,
+      "joinDate": "2022-08-03T00:00:00Z"
+    },
+    {
+      "name": "ArunaKumari",
+      "email": "aruna@example.com",
+      "password": "A123@49",
+      "role": "mentor",
+      "menteesCount": 25,
+      "joinDate": "2022-09-20T00:00:00Z"
+    },
+    {
+      "name": "RajKumar",
+      "email": "rajk@example.com",
+      "password": "A123@50",
+      "role": "mentor",
+      "menteesCount": 20,
+      "joinDate": "2022-09-16T00:00:00Z"
+    },
+    {
+      "name": "Pugazh",
+      "email": "pugazh@example.com",
+      "password": "A123@51",
+      "role": "student",
+      "joinDate": "2022-08-08T00:00:00Z"
+    }
+  ]
+  

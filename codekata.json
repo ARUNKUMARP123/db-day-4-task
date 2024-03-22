@@ -1,0 +1,71 @@
+[{
+    "userId": {
+        "$oid": "65fd669125efea6530bc971f"
+      },
+    "problemsSolved": 50,
+    "submissionDate":"2022-10-15T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9720"
+      },
+    "problemsSolved": 40,   
+    "submissionDate":"2022-10-10T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9722"
+      },
+    "problemsSolved": 30,
+    "submissionDate":"2022-10-09T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9723"
+      },
+    "problemsSolved": 20,
+    "submissionDate":"2022-10-18T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9724"
+      },
+    "problemsSolved": 100,
+    "submissionDate":"2022-10-30T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9725"
+      },
+    "problemsSolved": 57,
+    "submissionDate":"2022-10-20T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9726"
+      },
+    "problemsSolved": 90,
+    "submissionDate":"2022-10-25T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9727"
+      },
+    "problemsSolved": 80,
+    "submissionDate":"2022-10-28T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9728"
+      },
+    "problemsSolved": 60,
+    "submissionDate":"2022-10-17T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9729"
+      },
+    "problemsSolved": 10,
+    "submissionDate":"2022-10-13T00:00:00Z"
+  }
+  ]

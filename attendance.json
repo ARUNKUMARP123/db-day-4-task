@@ -1,0 +1,71 @@
+[{
+    "userId": {
+        "$oid": "65fd669125efea6530bc971f"
+      },
+      "status": "Present",
+    "Date":"2022-10-15T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9720"
+      },
+      "status": "Present",
+    "Date":"2022-10-10T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9722"
+      },
+      "status": "Present",
+    "Date":"2022-10-09T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9723"
+      },
+      "status": "Present",
+    "Date":"2022-10-18T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9724"
+      },
+      "status": "Present",
+    "Date":"2022-10-30T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9725"
+      },
+      "status": "Present",
+    "Date":"2022-10-20T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9726"
+      },
+      "status": "Present",
+    "Date":"2022-10-25T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9727"
+      },
+      "status": "Present",
+    "Date":"2022-10-28T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9728"
+      },
+      "status": "Present",
+    "Date":"2022-10-17T00:00:00Z"
+  },
+  {
+    "userId": {
+        "$oid": "65fd669125efea6530bc9729"
+      },
+      "status": "Present",
+    "Date":"2022-10-13T00:00:00Z"
+  }
+  ]
